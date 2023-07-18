@@ -17,6 +17,7 @@
 		CB1ECD6629580199005C1032 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = CB1ECD6529580199005C1032 /* FirebaseAuth */; };
 		CB1ECD6D29580283005C1032 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = CB1ECD6C29580283005C1032 /* GoogleService-Info.plist */; };
 		CB2EB46C294EF5C800BC4D57 /* homeFeed.json in Resources */ = {isa = PBXBuildFile; fileRef = CB2EB46B294EF5C800BC4D57 /* homeFeed.json */; };
+		CB3706172A674DD7005A3948 /* solveitIntro.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = CB3706162A674DBA005A3948 /* solveitIntro.mp4 */; };
 		CB3D0C172961E2E800FBB23C /* NavigationTransitions in Frameworks */ = {isa = PBXBuildFile; productRef = CB3D0C162961E2E800FBB23C /* NavigationTransitions */; };
 		CB4265F32A66DF9F00B56373 /* FeedCardViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4265F22A66DF9F00B56373 /* FeedCardViewModel.swift */; };
 		CB4265F52A66DFAA00B56373 /* FeedCardModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4265F42A66DFAA00B56373 /* FeedCardModel.swift */; };
@@ -86,6 +87,7 @@
 		CB1ECD6C29580283005C1032 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		CB1ECD6E295802B1005C1032 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		CB2EB46B294EF5C800BC4D57 /* homeFeed.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = homeFeed.json; sourceTree = "<group>"; };
+		CB3706162A674DBA005A3948 /* solveitIntro.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = solveitIntro.mp4; sourceTree = "<group>"; };
 		CB4265F22A66DF9F00B56373 /* FeedCardViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedCardViewModel.swift; sourceTree = "<group>"; };
 		CB4265F42A66DFAA00B56373 /* FeedCardModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedCardModel.swift; sourceTree = "<group>"; };
 		CB4265F72A670BBA00B56373 /* MessageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageView.swift; sourceTree = "<group>"; };
@@ -330,6 +332,7 @@
 		CB89137829D40C7400AF4D7E /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				CB3706162A674DBA005A3948 /* solveitIntro.mp4 */,
 				CBC6AB532A66CEA20092F7C3 /* TestData */,
 				CBFCCEA6295A826C00E45C54 /* Lottie */,
 			);
@@ -489,6 +492,7 @@
 				CBFCCEAE295A9E0900E45C54 /* messages.json in Resources */,
 				CBC6AB552A66D0F00092F7C3 /* messageFeed.json in Resources */,
 				CB2EB46C294EF5C800BC4D57 /* homeFeed.json in Resources */,
+				CB3706172A674DD7005A3948 /* solveitIntro.mp4 in Resources */,
 				CB7BEA54294834FF00FB7E16 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
