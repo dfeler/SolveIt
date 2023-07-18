@@ -1,0 +1,138 @@
+[
+    
+    {
+       "id":"203092",
+       "title":"How do I find the slope of a line?",
+       "subject":"Geometry",
+       "content":"I'm trying to find the slope of a line given two points, but I'm not sure how to do it. Can you explain the steps I need to take?",
+       "like":1,
+       "comment":27,
+       "views":146
+    },
+    {
+       "id":"034920",
+       "title":"What is the process of photosynthesis?",
+       "subject":"Biology",
+       "content":"I'm trying to understand the process of photosynthesis, but I'm having trouble grasping the concept. Can you explain it to me in more detail?",
+       "like":0,
+       "comment":4,
+       "views":102
+    },
+    {
+       "id":"039201",
+       "title":"How do I calculate the density of an object?",
+       "subject":"Physics",
+       "content":"I'm trying to calculate the density of an object, but I'm not sure how to do it. Can you explain the steps I need to take?",
+       "like":1,
+       "comment":13,
+       "views":176
+    },
+    {
+       "id":"030912",
+       "title":"What is the difference between a physical and a chemical change?",
+       "subject":"Chemistry",
+       "content":"I'm trying to understand the difference between a physical and a chemical change, but I'm having trouble differentiating between the two. Can you explain the differences?",
+       "like":0,
+       "comment":7,
+       "views":142
+    },
+    {
+       "id":"039210",
+       "title":"What is the role of DNA in protein synthesis?",
+       "subject":"Biology",
+       "content":"I'm trying to understand the role of DNA in protein synthesis, but I'm not sure how it all works. Can you explain the process to me?",
+       "like":1,
+       "comment":16,
+       "views":109
+    },
+    {
+       "id":"093120",
+       "title":"What is the difference between a strong acid and a weak acid?",
+       "subject":"Chemistry",
+       "content":"I'm trying to understand the difference between a strong acid and a weak acid, but I'm not sure how to differentiate between the two. Can you explain the differences?",
+       "like":0,
+       "comment":23,
+       "views":193
+    },
+    {
+       "id":"039102",
+       "title":"What is the process of osmosis?",
+       "subject":"Biology",
+       "content":"I'm trying to understand the process of osmosis, but I'm having trouble grasping the concept. Can you explain it to me in more detail?",
+       "like":1,
+       "comment":5,
+       "views":169
+    },
+    {
+       "id":"039012",
+       "title":"What is the meaning of the term 'rate constant' in chemistry?",
+       "subject":"Chemistry",
+       "content":"I'm trying to understand the meaning of the term 'rate constant' in chemistry, but I'm not sure what it means. Can you explain it to me?",
+       "like":1,
+       "comment":2,
+       "views":293
+    },
+    {
+       "id":"903102",
+       "title":"How do I solve this trigonometry problem?",
+       "subject":"Trigonometry",
+       "content":"I'm trying to solve this trigonometry problem, but I'm not sure how to approach it. Can you help me understand the steps I need to take? sin(x) = 1/2, 0 < x < pi I'm trying to find the value of x, but I'm not sure how to do it.",
+       "like":0,
+       "comment":31,
+       "views":183
+    },
+    {
+       "id":"302901",
+       "title":"What is the process of cellular respiration?",
+       "subject":"Biology",
+       "content":"I'm trying to understand the process of cellular respiration, but I'm having trouble grasping the concept. Can you explain it to me in more detail?",
+       "like":1,
+       "comment":21,
+       "views":118
+    },
+    {
+       "id":"390120",
+       "title":"What is the process of DNA replication?",
+       "subject":"Biology",
+       "content":"I'm trying to understand the process of DNA replication, but I'm not sure how it all works. Can you explain the process to me?",
+       "like":0,
+       "comment":8,
+       "views":191
+    },
+    {
+       "id":"309120",
+       "title":"What is the purpose of a control group in an experiment?",
+       "subject":"Biology",
+       "content":"I'm trying to understand the purpose of a control group in an experiment, but I'm not sure why it's necessary. Can you explain the role of a control group?",
+       "like":1,
+       "comment":45,
+       "views":104
+    },
+    {
+       "id":"390102",
+       "title":"How do I write a proper thesis statement?",
+       "subject":"English",
+       "content":"I'm trying to write a proper thesis statement, but I'm not sure how to do it. Can you explain the steps I need to take to write a strong and clear thesis statement?",
+       "like":0,
+       "comment":22,
+       "views":119
+    },
+    {
+       "id":"030921",
+       "title":"What is the process of mitosis?",
+       "subject":"Biology",
+       "content":"I'm trying to understand the process of mitosis, but I'm having trouble grasping the concept. Can you explain it to me in more detail?",
+       "like":1,
+       "comment":14,
+       "views":156
+    },
+    {
+       "id":"030129",
+       "title":"How do I convert between different units of measurement?",
+       "subject":"Physics",
+       "content":"I'm trying to convert between different units of measurement, but I'm not sure how to do it. Can you explain the steps I need to take to make accurate conversions?",
+       "like":0,
+       "comment":39,
+       "views":170
+    }
+ ]
